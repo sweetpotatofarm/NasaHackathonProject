@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NasaHackathonProject/precache-manifest.0614c4b02798b2624831158465098609.js"
+  "/NasaHackathonProject/precache-manifest.1eb0563dee7a9051e9b05c278d0971de.js"
 );
 
 self.addEventListener('message', (event) => {

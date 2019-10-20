@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5826d18a2a5edf220fc08ead745ff528",
+    "revision": "28e10533c6d7524ddc153404fddeb490",
     "url": "/NasaHackathonProject/index.html"
   },
   {
-    "revision": "ca8e9e93b6fdd37bf72f",
-    "url": "/NasaHackathonProject/static/css/main.b59ec892.chunk.css"
+    "revision": "be39675bce536666df0f",
+    "url": "/NasaHackathonProject/static/css/main.1ee12b67.chunk.css"
   },
   {
     "revision": "1076583c65e68edcc11d",
     "url": "/NasaHackathonProject/static/js/2.b568ede8.chunk.js"
   },
   {
-    "revision": "ca8e9e93b6fdd37bf72f",
-    "url": "/NasaHackathonProject/static/js/main.97147c67.chunk.js"
+    "revision": "be39675bce536666df0f",
+    "url": "/NasaHackathonProject/static/js/main.128b7b29.chunk.js"
   },
   {
     "revision": "59c9937555404f8c6829",
     "url": "/NasaHackathonProject/static/js/runtime-main.e6c87f05.js"
+  },
+  {
+    "revision": "81e8db34cccd81ad3e500da58e24706c",
+    "url": "/NasaHackathonProject/static/media/air_pollution.81e8db34.png"
   },
   {
     "revision": "bd589cebcd28cd6a0a6e04314fd2c44b",

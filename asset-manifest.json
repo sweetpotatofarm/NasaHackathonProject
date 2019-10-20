@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/NasaHackathonProject/static/css/main.b59ec892.chunk.css",
-    "main.js": "/NasaHackathonProject/static/js/main.97147c67.chunk.js",
-    "main.js.map": "/NasaHackathonProject/static/js/main.97147c67.chunk.js.map",
+    "main.css": "/NasaHackathonProject/static/css/main.1ee12b67.chunk.css",
+    "main.js": "/NasaHackathonProject/static/js/main.128b7b29.chunk.js",
+    "main.js.map": "/NasaHackathonProject/static/js/main.128b7b29.chunk.js.map",
     "runtime-main.js": "/NasaHackathonProject/static/js/runtime-main.e6c87f05.js",
     "runtime-main.js.map": "/NasaHackathonProject/static/js/runtime-main.e6c87f05.js.map",
     "static/js/2.b568ede8.chunk.js": "/NasaHackathonProject/static/js/2.b568ede8.chunk.js",
     "static/js/2.b568ede8.chunk.js.map": "/NasaHackathonProject/static/js/2.b568ede8.chunk.js.map",
     "index.html": "/NasaHackathonProject/index.html",
-    "precache-manifest.0614c4b02798b2624831158465098609.js": "/NasaHackathonProject/precache-manifest.0614c4b02798b2624831158465098609.js",
+    "precache-manifest.1eb0563dee7a9051e9b05c278d0971de.js": "/NasaHackathonProject/precache-manifest.1eb0563dee7a9051e9b05c278d0971de.js",
     "service-worker.js": "/NasaHackathonProject/service-worker.js",
-    "static/css/main.b59ec892.chunk.css.map": "/NasaHackathonProject/static/css/main.b59ec892.chunk.css.map",
+    "static/css/main.1ee12b67.chunk.css.map": "/NasaHackathonProject/static/css/main.1ee12b67.chunk.css.map",
+    "static/media/air_pollution.png": "/NasaHackathonProject/static/media/air_pollution.81e8db34.png",
     "static/media/china.jpg": "/NasaHackathonProject/static/media/china.bd589ceb.jpg",
     "static/media/india.jpg": "/NasaHackathonProject/static/media/india.c530a2a4.jpg",
     "static/media/logo.svg": "/NasaHackathonProject/static/media/logo.25bf045c.svg",
@@ -20,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.e6c87f05.js",
     "static/js/2.b568ede8.chunk.js",
-    "static/css/main.b59ec892.chunk.css",
-    "static/js/main.97147c67.chunk.js"
+    "static/css/main.1ee12b67.chunk.css",
+    "static/js/main.128b7b29.chunk.js"
   ]
 }
