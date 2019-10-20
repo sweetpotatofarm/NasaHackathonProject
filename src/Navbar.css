@@ -6,18 +6,30 @@
     justify-content: space-around;
 }
 
+.HomePageHref{
+    display: flex;
+    width: 20%;
+    text-decoration: none;
+}
+
 .HomePage{
     display: flex;
     justify-content: center;
     align-items: center;
     background:grey;
     color:lightgrey;
-    width: 30%;
+    width: 100%;
     text-decoration: none;
 }
 
 .HomePage:hover{
     color: white;
+}
+
+.NewsHref{
+    display: flex;
+    width:20%;
+    text-decoration: none;
 }
 
 .news{
@@ -26,12 +38,17 @@
     align-items: center;
     background: grey;
     color:lightgrey;
-    width: 30%;
-    text-decoration: none;
+    width: 100%;
 }
 
 .news:hover{
     color: white;
+}
+
+.LineChatbotHref{
+    display: flex;
+    width:20%;
+    text-decoration: none;
 }
 
 .LineChatbot{
@@ -40,7 +57,8 @@
     align-items: center;
     background: grey;
     color: lightgrey;
-    width: 10%;
+    width: 100%;
+    
 }
 
 .LineChatbot:hover{
