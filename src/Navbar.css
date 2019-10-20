@@ -1,0 +1,48 @@
+.Navbar{
+    display: flex;
+    background:grey;
+    width:100%;
+    height: 60px;
+    justify-content: space-around;
+}
+
+.HomePage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:grey;
+    color:lightgrey;
+    width: 30%;
+    text-decoration: none;
+}
+
+.HomePage:hover{
+    color: white;
+}
+
+.news{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: grey;
+    color:lightgrey;
+    width: 30%;
+    text-decoration: none;
+}
+
+.news:hover{
+    color: white;
+}
+
+.LineChatbot{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background: grey;
+    color: lightgrey;
+    width: 10%;
+}
+
+.LineChatbot:hover{
+    color: white;
+}
