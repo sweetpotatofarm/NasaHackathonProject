@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NasaHackathonProject/static/css/main.b59ec892.chunk.css",
+    "main.js": "/NasaHackathonProject/static/js/main.684f3b6b.chunk.js",
+    "main.js.map": "/NasaHackathonProject/static/js/main.684f3b6b.chunk.js.map",
+    "runtime-main.js": "/NasaHackathonProject/static/js/runtime-main.e6c87f05.js",
+    "runtime-main.js.map": "/NasaHackathonProject/static/js/runtime-main.e6c87f05.js.map",
+    "static/js/2.b568ede8.chunk.js": "/NasaHackathonProject/static/js/2.b568ede8.chunk.js",
+    "static/js/2.b568ede8.chunk.js.map": "/NasaHackathonProject/static/js/2.b568ede8.chunk.js.map",
+    "index.html": "/NasaHackathonProject/index.html",
+    "precache-manifest.356fa786cfc41164d558f860f39b2f3e.js": "/NasaHackathonProject/precache-manifest.356fa786cfc41164d558f860f39b2f3e.js",
+    "service-worker.js": "/NasaHackathonProject/service-worker.js",
+    "static/css/main.b59ec892.chunk.css.map": "/NasaHackathonProject/static/css/main.b59ec892.chunk.css.map",
+    "static/media/china.jpg": "/NasaHackathonProject/static/media/china.bd589ceb.jpg",
+    "static/media/india.jpg": "/NasaHackathonProject/static/media/india.c530a2a4.jpg",
+    "static/media/logo.svg": "/NasaHackathonProject/static/media/logo.25bf045c.svg",
+    "static/media/taiwan.jpg": "/NasaHackathonProject/static/media/taiwan.e74a6153.jpg",
+    "static/media/us.jpg": "/NasaHackathonProject/static/media/us.b7ef8203.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c87f05.js",
+    "static/js/2.b568ede8.chunk.js",
+    "static/css/main.b59ec892.chunk.css",
+    "static/js/main.684f3b6b.chunk.js"
+  ]
+}
